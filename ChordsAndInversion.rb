@@ -1,7 +1,6 @@
 # ChordsAndInversion.rb
 # 16 sep 2017
 
-
 #scale_names
 snames= scale_names
 puts "Scale Names"
