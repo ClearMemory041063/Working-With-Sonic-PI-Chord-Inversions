@@ -19,6 +19,8 @@ sleep 0.5
 play (chord_invert (chord :A3, "M"), 2)
 sleep 0.5
 ```
+#### The program showchords.rb puts the note names of a chord  and plays them
+
 #### The program chordinversion3.rb creates a new function to play a song
 
 ```
