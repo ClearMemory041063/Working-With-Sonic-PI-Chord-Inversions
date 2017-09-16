@@ -18,9 +18,6 @@ while i<chdnames.length-1
   i+=1
 end
 
-puts "An A3major chord is composed of "
-puts chord :A3, "M"
-
 play_pattern_timed scale(:d3, :major), 0.125, release: 0.1
 play_pattern_timed scale(:d3, :minor), 0.125, release: 0.1
 
